@@ -1,0 +1,75 @@
+#include "%L"   # import the default Compose file for your locale
+
+### A
+<Multi_key> <apostrophe> <a>     : "á"
+<Multi_key> <apostrophe> <A>     : "Á"
+
+<Multi_key> <grave> <a>     : "à"
+<Multi_key> <grave> <A>     : "À"
+
+### E
+<Multi_key> <apostrophe> <e>     : "é"
+<Multi_key> <apostrophe> <E>     : "É"
+
+<Multi_key> <grave> <e>     : "è"
+<Multi_key> <grave> <E>     : "È"
+
+<Multi_key> <period> <e>     : "ẹ"
+<Multi_key> <apostrophe> <period> <e>     : "ẹ́"
+<Multi_key> <grave> <period> <e>     : "ẹ̀"
+
+<Multi_key> <period> <E>     : "Ẹ"
+<Multi_key> <apostrophe> <period> <E>     : "Ẹ́"
+<Multi_key> <grave> <period> <E>     : "Ẹ̀"
+
+### I
+<Multi_key> <apostrophe> <i>     : "í"
+<Multi_key> <apostrophe> <I>     : "Í"
+
+<Multi_key> <grave> <i>     : ""ì
+<Multi_key> <grave> <I>     : "Ì"
+
+<Multi_key> <period> <i>     : "ị"
+<Multi_key> <apostrophe> <period> <i>     : "ị́"
+<Multi_key> <grave> <period> <i>     : "ị̀"
+
+<Multi_key> <period> <I>     : "Ị"
+<Multi_key> <apostrophe> <period> <I>     : "Ị́"
+<Multi_key> <grave> <period> <I>     : "Ị̀"
+
+### O
+<Multi_key> <apostrophe> <o>     : "ó"
+<Multi_key> <apostrophe> <O>     : "Ó"
+
+<Multi_key> <grave> <o>     : "ò"
+<Multi_key> <grave> <O>     : "Ò"
+
+<Multi_key> <period> <o>     : "ọ"
+<Multi_key> <apostrophe> <period> <o>     : "ọ́"
+<Multi_key> <grave> <period> <o>     : "ọ̀"
+
+<Multi_key> <period> <O>     : "Ọ"
+<Multi_key> <apostrophe> <period> <O>     : "Ọ́"
+<Multi_key> <grave> <period> <O>     : "Ọ̀"
+
+### U
+<Multi_key> <apostrophe> <u>     : "ú"
+<Multi_key> <apostrophe> <U>     : "Ú"
+
+<Multi_key> <grave> <u>     : "ù"
+<Multi_key> <grave> <U>     : "Ù"
+
+<Multi_key> <period> <u>     : "ụ"
+<Multi_key> <apostrophe> <period> <u>     : "ụ́"
+<Multi_key> <grave> <period> <u>     : "ụ̀"
+
+<Multi_key> <period> <U>     : "Ụ"
+<Multi_key> <apostrophe> <period> <U>     : "Ụ́"
+<Multi_key> <grave> <period> <U>     : "Ụ̀"
+
+### U
+<Multi_key> <apostrophe> <m>     : "ḿ"
+<Multi_key> <apostrophe> <M>     : "Ḿ"
+
+<Multi_key> <grave> <m>     : "m̀"
+<Multi_key> <grave> <M>     : "M̀"
